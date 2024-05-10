@@ -43,7 +43,6 @@ body {
 
 
 
-
 .content {
     flex: 1; /* Venyttää sisältödivin täyttämään käytettävissä olevan tilan */
     display: flex;
