@@ -3,15 +3,12 @@ body {
     padding: 10px;
     background-color: #f5ccc9;
 }
-
 .navigointipalkki {
     color:black;
-
 }
 
 .navigointipalkki .nav-link {
     color: black;
-
 }
 
 .otsikko {
@@ -20,7 +17,6 @@ body {
     padding: 30px;
     max-width: 700px;
     margin:auto;
-  
   }
 
   h1 {
@@ -29,13 +25,11 @@ body {
     text-decoration-style: wavy;
     text-decoration-color: #222649;
     text-underline-offset: 10px;
-
   }
 
 .carousel-container {
     width: 35%;
     margin: 0 auto;
-
 }
 
 .carousel-container .carousel-inner {
